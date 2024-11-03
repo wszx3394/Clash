@@ -2,10 +2,15 @@
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/wszx3394/clash
 # UPDATED: 2024-11-03 16:16:11
-# DOMAIN-SUFFIX: 3
-# TOTAL: 3
-DOMAIN-SUFFIX,exhentai.org
+# DOMAIN-SUFFIX: 10
+# TOTAL: 10
 DOMAIN-SUFFIX,e-hentai.org
+DOMAIN-SUFFIX,exhentai.org
 DOMAIN-SUFFIX,lofi.e-hentai.org
-
-
+DOMAIN-SUFFIX,forums.e-hentai.org
+DOMAIN-SUFFIX, ehgt.org
+DOMAIN-SUFFIX, ehtracker.org
+DOMAIN-SUFFIX, ehwiki.org
+DOMAIN-SUFFIX, hath.network
+DOMAIN-SUFFIX, hentaiathome.net
+DOMAIN-SUFFIX, hentaiverse.org
